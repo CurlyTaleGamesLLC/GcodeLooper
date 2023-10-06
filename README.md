@@ -7,7 +7,7 @@
 Gcode Looper is a user-friendly web app for seamless and continuous 3D printing. Drag and drop G-code files, specify copies, and enjoy uninterrupted printing. Perfect for small print farms, no Raspberry Pi or constant computer connection required.
 
 <p align="center">
-  <a href="https://your-github-username.github.io/gcode-looper/"><img height="70px" src="./public/try-gcode-looper.png"></a>
+  <a href="https://CurlyTaleGamesLLC.github.io/GcodeLooper/"><img height="70px" src="./public/try-gcode-looper.png"></a>
 </p>
 
 ## Support the Project
