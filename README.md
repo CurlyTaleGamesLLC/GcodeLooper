@@ -7,7 +7,7 @@
 Gcode Looper is a user-friendly web app for seamless and continuous 3D printing. Drag and drop G-code files, specify copies, and enjoy uninterrupted printing. Perfect for small print farms, no Raspberry Pi or constant computer connection required.
 
 <p align="center">
-  <a href="https://your-github-username.github.io/gcode-looper/"><img height="60px" src="./public/try-gcode-looper.png"></a>
+  <a href="https://your-github-username.github.io/gcode-looper/"><img height="70px" src="./public/try-gcode-looper.png"></a>
 </p>
 
 ## Support the Project
@@ -15,10 +15,10 @@ Gcode Looper is a user-friendly web app for seamless and continuous 3D printing.
 You can support this project and its development by becoming a GitHub Sponsor or making a donation via PayPal. Your support helps us maintain and improve Gcode Looper for everyone.
 
 <!-- GitHub Sponsors Button -->
-[<img alt="Become a Github Sponsor" height="24px" src="./public/github-sponsors.png" />](https://github.com/sponsors/CurlyTaleGames)
+[<img alt="Become a Github Sponsor" height="50px" src="./public/github-sponsors.png" />](https://github.com/sponsors/CurlyTaleGames)
 
 <!-- PayPal Button -->
-[<img alt="Donate via PayPal" height="24px" src="./public/paypal.png" />](https://www.paypal.com/donate/?hosted_button_id=L4GAK93DRELFW)
+[<img alt="Donate via PayPal" height="50px" src="./public/paypal.png" />](https://www.paypal.com/donate/?hosted_button_id=L4GAK93DRELFW)
 
 ## Getting Started
 
