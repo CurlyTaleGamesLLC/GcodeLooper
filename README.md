@@ -6,29 +6,8 @@
 
 Gcode Looper is a user-friendly web app for seamless and continuous 3D printing. Drag and drop G-code files, specify copies, and enjoy uninterrupted printing. Perfect for small print farms, no Raspberry Pi or constant computer connection required.
 
-<p style="text-align: center;">
-  <a href="https://your-github-username.github.io/gcode-looper/"
-     style="display: inline-block; padding: 12px 24px; background-color: #6aa961; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 18px;">
-    Try Gcode Looper
-  </a>
-</p>
-
-
-Certainly! Here's the updated code with the paths to the SVG files in your repository:
-
-markdown
-Copy code
-# Gcode Looper
-
-![Screenshot](/public/screenshot.png)
-
-Gcode Looper is a user-friendly web app for seamless and continuous 3D printing. Drag and drop G-code files, specify copies, and enjoy uninterrupted printing. Perfect for small print farms, no Raspberry Pi or constant computer connection required.
-
-<p style="text-align: center;">
-  <a href="https://your-github-username.github.io/gcode-looper/"
-     style="display: inline-block; padding: 12px 24px; background-color: #6aa961; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 18px;">
-    Try Gcode Looper
-  </a>
+<p align="center">
+  <a href="https://your-github-username.github.io/gcode-looper/"><img height="60px" src="./public/try-gcode-looper.png"></a>
 </p>
 
 ## Support the Project
@@ -36,17 +15,10 @@ Gcode Looper is a user-friendly web app for seamless and continuous 3D printing.
 You can support this project and its development by becoming a GitHub Sponsor or making a donation via PayPal. Your support helps us maintain and improve Gcode Looper for everyone.
 
 <!-- GitHub Sponsors Button -->
-<a href="https://github.com/sponsors/CurlyTaleGames"
-   style="display: inline-block; padding: 12px 24px; background-color: #f8f9fa; color: black; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 18px; margin-right: 20px;">
-  <img src="src/assets/github.svg" alt="GitHub Sponsors" height="24" style="vertical-align: middle; margin-right: 10px;">
-  GitHub Sponsors
-</a>
+[<img alt="Become a Github Sponsor" height="24px" src="./public/github-sponsors.png" />](https://github.com/sponsors/CurlyTaleGames)
 
 <!-- PayPal Button -->
-<a href="https://www.paypal.com/donate/?hosted_button_id=L4GAK93DRELFW"
-   style="display: inline-block; padding: 12px 24px; background-color: #f8f9fa; color: black; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 18px;">
-  <img src="src/assets/PayPal.svg" alt="Donate via PayPal" height="24" style="vertical-align: middle; margin-right: 10px;">
-</a>
+[<img alt="Donate via PayPal" height="24px" src="./public/paypal.png" />](https://www.paypal.com/donate/?hosted_button_id=L4GAK93DRELFW)
 
 ## Getting Started
 
